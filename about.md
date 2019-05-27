@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm a data scientist. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[amak@ucdavis.edu](mailto:amak@ucdavis.edu)
