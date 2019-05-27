@@ -4,11 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-I'm a data scientist. 
+I'm a data scientist with experience in Python, SQL, R, Matlab, and C as well as creating and productionalizing models. I enjoy trying to find solutions to problems I encounter on a day to day basis. 
 
 ### Contact me
 
